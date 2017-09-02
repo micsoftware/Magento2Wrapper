@@ -11,3 +11,5 @@ Magento 2 is an open source eCommerce R&D project facilitating the improvement o
 
 
 ## What Is Magento 2 C# Wrapper
+
+Magento 2 C# Wrapper is a Nuget Package https://www.nuget.org/packages/Magento2Wrapper/ which simplifies the task of using the Magento 2 Api's http://devdocs.magento.com/swagger/index_20.html
