@@ -1,0 +1,9 @@
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\eCatalog.Integration.Magento2.dll
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\eCatalog.Integration.Magento2.pdb
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\RestSharp.dll
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\bin\Debug\RestSharp.xml
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\obj\Debug\eCatalog.Integration.Magento2.csprojResolveAssemblyReference.cache
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\obj\Debug\eCatalog.Integration.Magento2.dll
+C:\Users\Jude\Documents\Mic-Software\ECatalogIntegration\eCatalog.Integration.Magento2\obj\Debug\eCatalog.Integration.Magento2.pdb
