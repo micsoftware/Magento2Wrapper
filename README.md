@@ -1,4 +1,4 @@
-# Magento2Wrapper
+# Magento2 C# Wrapper
 
 
 ## What Is Magento
